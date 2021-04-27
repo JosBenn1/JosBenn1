@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi I'm Benito 👋
+# Bonjour Je m'apelle Benito 
+
+### I'm currently studying Software Development and Management Engineering
 
 <!--
 **JosBenn1/JosBenn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
