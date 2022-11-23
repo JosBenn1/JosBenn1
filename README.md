@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benito Romero</h1>
-<h3 align="center">Estudiante en la Universidad Tecnologica de Tecamachalco</h3>
+<h3 align="center">Analista de Transformación Digital</h3>
 
-- 🌱 I’m currently learning **Ciencia de datos (Azure)**
+- 🌱 I’m Ing. **Desarrallo y Gestión Software Ciencia de datos**
 
 
 <h3 align="left">Languages and Tools:</h3>
