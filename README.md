@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benito Romero</h1>
 <h3 align="center">Arquitecto de Soluciones</h3>
 
-- 🌱 I’m Ing. **Desarrallo y Gestión Software Ciencia de datos**
+- 🌱 I’m Ing. **Desarrallo y Gestión Software**
 
 
 <h3 align="left">Languages and Tools:</h3>
