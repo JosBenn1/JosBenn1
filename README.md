@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benito Romero</h1>
-<h3 align="center">Analista de Transformación Digital</h3>
+<h3 align="center">Arquitecto de Soluciones</h3>
 
 - 🌱 I’m Ing. **Desarrallo y Gestión Software Ciencia de datos**
 
